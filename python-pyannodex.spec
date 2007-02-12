@@ -1,5 +1,5 @@
 Summary:	Python bindings for Annodex libraries
-Summary(pl):	Wi±zania Pythona dla bibliotek Annodex
+Summary(pl.UTF-8):   WiÄ…zania Pythona dla bibliotek Annodex
 Name:		python-pyannodex
 Version:	0.7.3.2
 Release:	1
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Python bindings for Annodex libraries.
 
-%description -l pl
-Wi±zania Pythona dla bibliotek Annodex.
+%description -l pl.UTF-8
+WiÄ…zania Pythona dla bibliotek Annodex.
 
 %prep
 %setup -q -n pyannodex-%{version}
