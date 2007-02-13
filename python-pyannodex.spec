@@ -1,5 +1,5 @@
 Summary:	Python bindings for Annodex libraries
-Summary(pl.UTF-8):   Wiązania Pythona dla bibliotek Annodex
+Summary(pl.UTF-8):	Wiązania Pythona dla bibliotek Annodex
 Name:		python-pyannodex
 Version:	0.7.3.2
 Release:	1
